@@ -1,0 +1,1 @@
+print "Ascii bell \a"
